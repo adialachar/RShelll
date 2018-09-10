@@ -1,7 +1,7 @@
-##RShell Assignment 3
 
 
-This program aims to create an imiation of a linux shell in C++, which will run basic commands such as ls, echo, and mkdir
+
+This program is a basic bash shell written in C++, which can take simple commands like ls, pwd, echo, and take comments and paranthetical commands as well. It can also use connectors like "&&", "||", and ; to execute multiple commands at once. 
 
 ## Installation
 To install the code, run the makefile in the console.
